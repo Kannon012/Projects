@@ -1,6 +1,7 @@
 School Projects:
 
-1. file:///C:/Users/kanta/Downloads/Sept16AI.pdf (When I first touched GameOfLife)
+1.   [Sept16AI.pdf](https://github.com/user-attachments/files/20402709/Sept16AI.pdf)
+ (When I first touched GameOfLife)
 
 2. Why Are We Studying AI.docx (Questions answering About How I see AI)
 
@@ -10,4 +11,4 @@ School Projects:
 
 5. project Ai.pdf (Using Ai to do Math)
 
-[Sept16AI.pdf](https://github.com/user-attachments/files/20402708/Sept16AI.pdf)
+
